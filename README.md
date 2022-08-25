@@ -1,7 +1,7 @@
 # MiAI_YOLOv7
 Demo of train Yolov7 on custom data
 
-Video link:  https://youtu.be/1ZidAtKpAz0
+Video link:  https://youtu.be/TJ4o5QB7Wqg
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
